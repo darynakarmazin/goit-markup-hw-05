@@ -435,7 +435,7 @@ footer {
 .footer-social-list {
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 16px;
 }
 .footer-social-link {
   display: flex;
